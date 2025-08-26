@@ -1,0 +1,20 @@
+main{
+    text-align: center;
+    text-decoration: dotted; 
+    color:#8b0000
+}
+
+h1 {
+  font-size: 2rem;
+  letter-spacing: 0.5px;
+  font-style: italic;
+  text-transform: capitalize;
+}
+
+p {
+  background-color: lightgreen;
+}
+
+main > div > section > a{
+  background-color: red;
+}
